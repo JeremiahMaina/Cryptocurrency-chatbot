@@ -102,3 +102,10 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.  
+
+![image](https://github.com/user-attachments/assets/d6e25314-c97f-415b-aeb9-4181d0d53d86)
+👥 The Team
+Name	         Contact
+Mary Njoroge   mariannapeters203@gmail.com
+Ian Kariuki    iankariuki450@gmail.com
+Jeremiah       	mainajeremyk@gmail.com
