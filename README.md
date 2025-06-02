@@ -1,4 +1,4 @@
-n# <div align="center">
+  <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=2ecc71&center=true&vCenter=true&random=false&width=600&height=100&lines=CryptoBuddy;Your+AI+Crypto+Companion" alt="Typing SVG" />
 </div>
 
